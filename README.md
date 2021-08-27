@@ -1,7 +1,7 @@
-mta-sts well-known page for gsomfamily.com domain. https://www.hardenize.com/blog/mta-sts
+mta-sts well-known page for tomi.ai domain. https://www.hardenize.com/blog/mta-sts
 
 
-This repo contains mta-sts rules for gsomfamily.com domain and runs github pages to serve the content.
+This repo contains mta-sts rules for tomi.ai domain and runs github pages to serve the content.
 
 
-https://mta-sts.gsomfamily.com/.well-known/mta-sts.txt
+https://mta-sts.tomi.ai/.well-known/mta-sts.txt
